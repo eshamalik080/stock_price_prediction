@@ -1,8 +1,8 @@
 ### **Task Objective**
   Predict the next day's closing price of a stock using historical price data.
 ### **Dataset used**
-  Retrieved from **Yahoo Finance** using `yfinance`
-  Columns used: Open, High, Low, Close, Volume
+    Retrieved from **Yahoo Finance** using `yfinance`
+    Columns used: Open, High, Low, Close, Volume
 ### **Model Applied**
   Linear Regression  
 ### **Key Results and findings**
